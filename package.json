@@ -1,7 +1,7 @@
 {
-  "name": "splash-page-civic-networking",
+  "name": "docker+jscsshtml",
   "version": "1.0.0",
-  "description": "The splash page for the civic networking mobile application",
+  "description": "Static Demo Application for Docker + All Presentation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,7 @@
   "author": "Zuri Hunter",
   "license": "ISC",
   "dependencies": {
+    "http-server": "^0.10.0",
     "jquery": "^3.1.0"
   }
 }
